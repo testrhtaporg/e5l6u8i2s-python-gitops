@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: e5l6u8i2s-python-repository
+spec:
+  url: https://github.com/testrhtaporg/e5l6u8i2s-python
